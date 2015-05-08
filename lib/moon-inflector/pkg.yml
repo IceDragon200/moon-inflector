@@ -1,5 +1,5 @@
 ---
-name: Moon Inflector
+name: Inflector
 author: IceDragon200 (Corey Powell) (mistdragon100@gmail.com)
 description: "Extracted from Rails Active Support, transforms words"
 require: _basalt.rb
