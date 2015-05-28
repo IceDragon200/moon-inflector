@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'moon-inflector'
   s.summary     = 'Moon Inflector package.'
   s.description = 'Moon Inflector package, extracted the moon-packages.'
-  s.homepage    = 'https://github.com/IceDragon200/moon-inflector'
+  s.homepage    = 'https://github.com/polyfox/moon-inflector'
   s.email       = 'mistdragon100@gmail.com'
   s.version     = Moon::Inflector::Version::STRING
   s.platform    = Gem::Platform::RUBY
