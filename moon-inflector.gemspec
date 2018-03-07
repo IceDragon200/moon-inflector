@@ -1,3 +1,4 @@
+require 'date'
 require_relative 'lib/moon-inflector/version'
 
 Gem::Specification.new do |s|
